@@ -10,6 +10,14 @@ Government of Maharashtra has again envisaged comprehensive e-Governance program
 Government Resolution As per the evaluation of the tender and subsequent decision in High Power Committee (HPC), following companies have been qualified and are empanelled with Govt. of Maharashtra for a period of five years i.e. from 20th March 2018 to 19th March 2023 to provide consultancy services for e-Governance (IT Projects) activities in Maharashtra. Any department of Govt. of Maharashtra or the allied offices under it/corporations/boards (Independent bodies) etc. can avail the consultancy services from these firms.
 1. M/s Deloitte 2. M/s Ernst & Young 3. M/s Grant Thornton 4. M/s KPMG 5. M/s PwC 6. M/s Wipro
 2. The rates for different categories of consultants as fixed by Govt. of Maharashtra for the above firms are given below
+---------------------------------------------------------------------------
+| Category | Experience | Rates in INR - Per Month Per Person (Excluding Taxes) |
+| Principal Consultant | >15 Years | 3,24,000/ |
+| Managing Consultant | >8 to <-15 Years | 2,79,000/ |
+| Senior Consultant | >5 to <=8 Years | 2,52,000/ |
+| Consultant | >3 to <=5 Years | 2,25,000/ |
+| Associate Consultant | >6 months to <=3 Years | 1,80,000/ |
+---------------------------------------------------------------------------
 Note: I. The above rates will apply for all work orders issued after the date of issue of this GR.
 II. The above rates are excluding of Govt. taxes and OPE (Out of Pocket Expenses).
 III. The out of pocket expenses (OPE) like Travel, boarding, lodging incurred by the
@@ -23,6 +31,14 @@ VI. The consultants must compulsorily work from the office of the department.
 Department must ensure proper working environment for the consultants and ensure seating near the officials with whom they have to frequently interact with.
 3. This GR is applicable only for IT & eGovernance projects.
 4. Types of Consultant and their required educational qualification is as given in the table below
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+| Sr.No. | Profile | Educational Qualification |
+| 1. | Project/Program Management (Preparation of DPR, Bid Management, Vendor Management, Project Management) | Relevant experience in IT and eGovernance, Electronics / Telecommunication (MBA Preferable) |
+| 2. | Financial Management (For Finance & Accounts type of work) | CA with relevant experience (MBA Preferable) |
+| 3. | Solution Architect (For Project Design) | BE/BTech/MCA/MSc (Computer Science, Information Technology, Electronics and Telecom.) relevant experience in IT |
+| 4. | Change Management | Graduate in any discipline with relevant experience (MBA Preferable) |
+| 5. | Legal Management | Graduate in Legal discipline with legal background experience |
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 5. Selection of the consultancy firm: Any department of Govt. of Maharashtra may appoint any of the empanelled consultants for eGovernance related work in the state at the rates mentioned in this GR.
 For selection of consultant on *Man-Month basis through this empanelment GR, following should be followed.
 1. Departments need to finalize the scope of work for consultancy with concurrence of DIT.

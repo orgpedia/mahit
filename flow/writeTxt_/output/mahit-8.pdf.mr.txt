@@ -34,6 +34,21 @@ Consideration of matters proposed as change requests/ improvements by various st
 Review budgetary requirements and financial monitoring of the allocated funds
 Creating a supporting environment for the success of the project with focus on change management and capacity building plans of various stakeholders.
 The composition of Project Steering Committee will be as follows:
+---------------------------------------------------------------------------------------------------------
+| COMPOSITION |
+| Additional Chief Secretary, Higher & Technical Education Department, Government of Maharashtra | Chairman |
+| Principal Secretary IT & Chairman of Maharashtra IT Corporation | Vice-Chairman |
+| Vice Chancellor, SNDT University | Member |
+| Registrar, Dr. Babasaheb Ambedkar Technological University, Lonere | Member |
+| Registrar, YCMOU, Nashik | Member |
+| Director, Higher Education | Member |
+| Director, Technical Education | Member |
+| Controller of Examinations, Mumbai University | Member |
+| Managing Director, MahalT | Member |
+| Director IT | Member |
+| Representative of System Integrator | Member |
+| Under Secretary, DIT | Member-Secretary |
+---------------------------------------------------------------------------------------------------------
 The Committee will meet at least once a month.
 B) PROJECT MONITORING COMMITTEE (PMC):
 A Project Monitoring Committee (PMC) shall be responsible for providing operational directions for day to day operations of the project. The broad functions of the PMC include the following, but not limited to
@@ -46,6 +61,18 @@ Conducting regular meetings with project key stakeholders for issue resolution
 Page 2 of 4
 # Page 3
 Government Circular No.: - GAD-061/1/2017/DIT (MH)
+-------------------------------------------------------------------
+| COMPOSITION |
+| Principal Secretary IT | Chairman |
+| Joint Secretary, Higher and Technical Education Department | Member |
+| Managing Director, MahalT | Member |
+| Nodal officers from each of the Universities | Member |
+| Director - IT | Member |
+| Under Secretary DIT | Member-Secretary |
+| Project Manager, PMU MahalT | Member |
+| Project Manager, Sl | Member |
+| Other invitees, as per approval of Chairman | Member |
+-------------------------------------------------------------------
 The Committee will meet once in 15 days. Since representatives of all Universities are members of this Committee, meetings may be conducted over video conference.
 C) DOMAIN GROUPS
 Domain groups will be constituted for each of the 5 verticals of the IUMS project- Students,

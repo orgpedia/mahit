@@ -28,6 +28,16 @@ intimation will be given to concerned authorities seven days before start of wor
 (trenching/laying of Cable, connection, installation of equipments etc.) for both
 roads (bridges and flyovers) and buildings.
 (f) Necessary access will be given to all buildings and roads by local bodies, Schools, public hospitals, Colleges, state Government statuary bodies etc. to TSP for laying fiber (both underground and aerial), installation of poles etc. for the provision of bandwidth.
+------------------------------------------------------------------------------------------
+| (g) Urban Development department will issue necessary instructions to all the local |
+| bodies to cooperate with MahalT and its agencies for the ROW permissions. |
+|  |
+| (h) TSP will have option for installation of Smart Poles i.e. TSP can erect Smart Poles, |
+| which can be leveraged for deployment digital signage, microcells for 4G/5G, IoT |
+| based sensors, etc., and Wi-Fi Provisioning i.e. TSP to deploy access points inside the |
+| premises of the in-scope Government offices / departments. |
+|  |
+------------------------------------------------------------------------------------------
 (i) Contract with TSP will be for 3 years with option to extend for next 2 years.
 (j) A Steering Committee will be formed under the Chairmanship of Chief Secretary
 with g Principal Secretary-IT, Principal Secretary-Home, Principal Secretary-Urban Development (UD2) and Director General of Police (DGP) as a members of the
